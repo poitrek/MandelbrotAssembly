@@ -1,0 +1,2 @@
+LIBRARY "DLL_Asm.dll"
+EXPORTS MandelbrotTest_Asm

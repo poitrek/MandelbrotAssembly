@@ -1,0 +1,2 @@
+LIBRARY "DLL_C.dll"
+EXPORTS MandelbrotTest_C
